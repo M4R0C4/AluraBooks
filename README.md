@@ -27,3 +27,12 @@ git clone https://github.com/M4R0C4/AluraBooks.git
 - Filtre livros por tag ou disponibilidade.
 - Ordene os livros pelo preço.
 - Confira a soma dos preços dos livros disponíveis no rodapé.
+
+## Aprendizados 🎯
+Aplicação prática de métodos avançados de array em JavaScript:
+- forEach: Iteração sobre os livros.
+- map: Transformação de dados.
+- sort: Ordenação por preço.
+- filter: Seleção por critérios específicos.
+- Manipulação de DOM para exibir dados dinamicamente.
+- Estilização condicional com base na disponibilidade dos livros.
