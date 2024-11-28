@@ -20,7 +20,7 @@ JavaScript (ES6) para a lógica de interação.
 ## Como Usar 📋
 
 1. Clone este repositório
-git clone https://github.com/M4R0C4/AluraBooks.git
+`git clone https://github.com/M4R0C4/AluraBooks.git`
 
 2. Abra o arquivo index.html no navegador
 3. Explore as funcionalidades:
